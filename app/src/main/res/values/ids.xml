@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="img_weather_condition2" type="id" />
+    <item name="img_weather_condition3" type="id" />
+    <item name="img_weather_condition4" type="id" />
+    <item name="img_weather_condition5" type="id" />
+    <item name="today" type="id" />
+    <item name="day2" type="id" />
+    <item name="day3" type="id" />
+    <item name="day4" type="id" />
+    <item name="day5" type="id" />
+</resources>
